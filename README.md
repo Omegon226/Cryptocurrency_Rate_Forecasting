@@ -1,4 +1,4 @@
-# State of the art решения для прогнозирования временных рядов и курсов криптовалют
+# State of the art решения прогнозирования временных рядов для курсов криптовалют
 
 <p align="center">
  <img src="https://github.com/Omegon226/Cryptocurrency_Rate_Forecasting/assets/69383841/11c2f5bd-4462-413f-a0a5-76533e863f7b"/>
