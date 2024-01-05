@@ -1,7 +1,7 @@
 # State of the art решения для прогнозирования временных рядов и курсов криптовалют
 
 <p align="center">
- <img src="https://github.com/Omegon226/Crypto_Course_Forecasting/assets/69383841/00c53bb2-7f53-405d-b929-04bfa37e339c" height=500/>
+ <img src="https://github.com/Omegon226/Crypto_Course_Forecasting/assets/69383841/00c53bb2-7f53-405d-b929-04bfa37e339c"/>
 </p>
 
 <p align="center">
