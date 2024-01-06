@@ -69,3 +69,4 @@ P.s. доп. влияющим фактором будет являтся кол-
 - https://openreview.net/pdf?id=cGDAkQo1C0p
 - https://arxiv.org/ftp/arxiv/papers/1803/1803.03916.pdf
 - https://datascience.stackexchange.com/questions/37589/can-reinforcement-learning-be-applied-for-time-series-forecasting
+- https://unit8co.github.io/darts/
