@@ -61,7 +61,7 @@ P.s. доп. влияющим фактором будет являтся кол-
   </b>
 </p>
 
-## Статьи и источники для анализа:
+## Статьи и источники для исследования:
 
 - https://openreview.net/pdf?id=cGDAkQo1C0p
 - https://github.com/lucidrains/iTransformer/tree/main
