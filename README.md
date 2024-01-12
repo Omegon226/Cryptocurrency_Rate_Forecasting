@@ -88,3 +88,5 @@ P.s.s классификация правильности повышения и�
 - https://datascience.stackexchange.com/questions/37589/can-reinforcement-learning-be-applied-for-time-series-forecasting
 - https://unit8co.github.io/darts/
 - https://ts.gluon.ai/stable/
+- https://arxiv.org/pdf/2106.10466.pdf
+- https://github.com/yuezhihan/ts2vec
