@@ -90,3 +90,4 @@ P.s.s классификация правильности повышения и�
 - https://ts.gluon.ai/stable/
 - https://arxiv.org/pdf/2106.10466.pdf
 - https://github.com/yuezhihan/ts2vec
+- https://www.influxdata.com/
